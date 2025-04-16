@@ -39,7 +39,7 @@ Rescue WinPE, Windows 10 Enterprise 64-bit (2004 - 19041.264) sürümü üzerind
 
 ## Dahili Yazılımlar
 
-Aşağıda Rescue WinPE içerisinde yer alan başlıca yazılımlar listelenmiştir:
+Rescue WinPE içerisinde yer alan başlıca yazılımlar:
 
 | Yazılım | Açıklama |
 |--------|----------|
@@ -119,7 +119,7 @@ Backup WinPE, Windows 10 Enterprise 64-bit (2004 - 19041.264) sürümü üzerind
 
 ## Dahili Yazılımlar
 
-Backup WinPE içerisinde yer alan yazılımlar şunlardır:
+Backup WinPE içerisinde yer alan başlıca yazılımlar:
 
 | Yazılım | Açıklama |
 |---------|----------|
