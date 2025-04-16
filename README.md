@@ -51,7 +51,7 @@ Aşağıda Rescue WinPE içerisinde yer alan başlıca yazılımlar listelenmiş
 | **DiskGenius v5.6.1.1580** | Disk yönetimi ve veri kurtarma (Türkçe) |
 | **AOMEI Partition Assistant v9.6.1** | Gelişmiş disk bölümlendirme aracı (Türkçe) |
 | **DiskPART GUI** | Disk hazırlama aracı (MBR ve UEFI desteğiyle) |
-| **Bootice v1.3.4** | Boot sektör yönetimi (Türkçe) |
+| **Bootice v1.3.4** | Bootice disk yönetimi (Türkçe) |
 | **ReDeploy New Hardware** | Yeni donanıma sistem taşıma (Macrium’dan ayrılmış modül) |
 | **ShadowCopy View** | Sistem geri yükleme noktalarındaki dosya ve klasörlere erişim (Türkçe) |
 | **ByPass Windows Password** | Windows kullanıcı parolasını atlama aracı (Türkçe - KonBoot tarzında çalışır) |
@@ -132,9 +132,9 @@ Backup WinPE içerisinde yer alan yazılımlar şunlardır:
 | **Drive Snapshot v1.50** | Disk imajı alma ve geri yükleme yazılımı |
 | **WIM Backup / Restore** | İmaj alma ve geri yükleme (GUI arayüzü, Türkçe) |
 | **AOMEI Partition Assistant v9.12.0** | Disk bölümleme yazılımı (Türkçe) |
-| **Bootice v1.3.4** | Boot yönetimi (Türkçe) |
+| **Bootice v1.3.4** | Bootice disk yönetimi (Türkçe) |
 | **ByPass Windows Password** | Windows kullanıcı parolasını atlama aracı (Türkçe - KonBoot tarzında çalışır) |
-| **Hardware Info** | Donanım bilgilerini görüntüleme (Türkçe, vbscript) |
+| **Hardware Info** | Temel donanım bilgilerini görüntüleme (Türkçe, vbscript) |
 | **Network Kısayol Oluştur** | Ağdaki paylaşılan klasörlere kolay bağlanma (Türkçe, vbscript) |
 | **WinSnap v5.3** | Ekran görüntüsü alma aracı (Türkçe) |
 | **CheckDisk GUI** | Disk hatalarını onarma (GUI) |
