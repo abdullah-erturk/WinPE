@@ -43,7 +43,7 @@ Aşağıda Rescue WinPE içerisinde yer alan başlıca yazılımlar listelenmiş
 
 | Yazılım | Açıklama |
 |--------|----------|
-| **Acronis True Image 2025 v29.2.41810** | Türkçe arayüzlü yedekleme yazılımı |
+| **Acronis True Image 2025 v29.2.41810** | İşletim Sistemi ve disk yedekleme yazılımı (Türkçe) |
 | **Acronis Shell** | Acronis yedek dosyalarını Explorer ortamında görüntüleme |
 | **Dism++ v10.1.1002.1** | Türkçe DISM arayüzü |
 | **WIM Backup / Restore** | DISM komutlarıyla GUI üzerinden imaj alma ve yükleme (Türkçe) |
@@ -123,7 +123,7 @@ Backup WinPE içerisinde yer alan yazılımlar şunlardır:
 
 | Yazılım | Açıklama |
 |---------|----------|
-| **Acronis True Image 2025 v29.2.41810** | Türkçe yedekleme yazılımı |
+| **Acronis True Image 2025 v29.2.41810** | İşletim Sistemi ve disk yedekleme yazılımı (Türkçe) |
 | **Acronis Shell** | Acronis yedek dosyalarını Explorer ortamında görüntüleme |
 | **WinPE DiskPART GUI** | Disk hazırlama aracı (MBR ve UEFI desteği) |
 | **Hasle Backup Suite v5** | Yedekleme ve veri geri yükleme yazılımı (Türkçe) |
