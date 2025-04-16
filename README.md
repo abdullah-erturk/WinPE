@@ -6,7 +6,6 @@
 
 <details>
 
-
 İşyerinde kullanmak üzere kendi ihtiyaçlarıma göre hazırladığım WinPE'yi sizlerle paylaşıyorum.
 
 Rescue WinPE tam teşekküllü bir WinPE'dir, standart bir bilgisayarda yapabileceğiniz birçok işi bu winpe üzerinden çok rahat yapabileceksiniz. 
@@ -28,7 +27,6 @@ Windows çökmesi durumunda, içindeki araçlarla Windows'u kurtarma
 
 <details>
   
-
 İşyerinde kullanmak üzere kendi ihtiyaçlarıma göre hazırladığım yedek alma ve geri yükleme işlemlerini öncelik tutan WinPE'yi sizlerle paylaşıyorum.
 
 Belirgin özellikleri:
