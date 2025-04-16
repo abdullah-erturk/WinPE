@@ -54,7 +54,7 @@ Aşağıda Rescue WinPE içerisinde yer alan başlıca yazılımlar listelenmiş
 | **Bootice v1.3.4** | Boot sektör yönetimi (Türkçe) |
 | **ReDeploy New Hardware** | Yeni donanıma sistem taşıma (Macrium’dan ayrılmış modül) |
 | **ShadowCopy View** | Sistem geri yükleme noktalarındaki dosya ve klasörlere erişim (Türkçe) |
-| **ByPass Windows Password** | Windows parolasını atlama aracı (Türkçe - KonBoot tarzında çalışır) |
+| **ByPass Windows Password** | Windows kullanıcı parolasını atlama aracı (Türkçe - KonBoot tarzında çalışır) |
 | **TeamViewer v15.27.3** | Reklamsız uzak masaüstü yazılımı |
 | **AnyDesk v9.0.4** | Uzak masaüstü bağlantısı (Türkçe) |
 | **WinSnap v5.3** | Gelişmiş ekran görüntüsü alma aracı (Türkçe) |
@@ -133,7 +133,7 @@ Backup WinPE içerisinde yer alan yazılımlar şunlardır:
 | **WIM Backup / Restore** | İmaj alma ve geri yükleme (GUI arayüzü, Türkçe) |
 | **AOMEI Partition Assistant v9.12.0** | Disk bölümleme yazılımı (Türkçe) |
 | **Bootice v1.3.4** | Boot yönetimi (Türkçe) |
-| **ByPass Windows Password** | Windows parolasını geçme aracı (Türkçe - KonBoot tarzında çalışır) |
+| **ByPass Windows Password** | Windows kullanıcı parolasını atlama aracı (Türkçe - KonBoot tarzında çalışır) |
 | **Hardware Info** | Donanım bilgilerini görüntüleme (Türkçe, vbscript) |
 | **Network Kısayol Oluştur** | Ağdaki paylaşılan klasörlere kolay bağlanma (Türkçe, vbscript) |
 | **WinSnap v5.3** | Ekran görüntüsü alma aracı (Türkçe) |
