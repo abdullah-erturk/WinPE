@@ -156,6 +156,6 @@ Yeni nesil bilgisayarlarda diskler görünmüyorsa, masaüstündeki **"Ana Bilgi
 🛠 **Backup WinPE**; teknik servis uzmanları, sistem yöneticileri ve veri kurtarma işlemleri yapan kullanıcılar için tasarlanmış bir araçtır. Yedekleme, disk yönetimi ve sistem kurtarma işlemleri için yüksek performans sağlar.
 
 </details>
-İndirme Linkleri:
+Link:
 
 [![Stable?](https://img.shields.io/badge/Release-v1.svg?style=flat)](https://github.com/abdullah-erturk/WinPE/releases)
