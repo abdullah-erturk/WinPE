@@ -47,3 +47,14 @@ Rescue WinPE tam teşekküllü bir WinPE'dir, standart bir bilgisayarda yapabile
 • Windows çökmesi durumunda, içindeki araçlarla Windows'u kurtarma
 
 </details>
+
+İndirme Linkleri:
+https://mega.nz/folder/oAJTjZAI#N1hdcIE1MKfEzvAfGecLZw (⚡Tnc Debrid ile İndir)
+
+Alternatif Link @awengers44:
+
+https://www.mediafire.com/folder/q58ui34v1uf0p/Rescue_WinPE
+
+Alternatif Link @alcalmc :
+
+https://pixeldrain.com/l/s4CmPgsu
