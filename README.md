@@ -69,7 +69,7 @@ Aşağıda Rescue WinPE içerisinde yer alan başlıca yazılımlar listelenmiş
 | **Disk2VHD v2.01 / VHD2Disk v0.2** | Fiziksel diskleri sanal diske çevirme ve geri yükleme |
 | **PENetwork v0.59 B12** | Ağ yapılandırma aracı (Türkçe) |
 | **Encryption / Decryption Tool** | Dosya/klasör şifreleme aracı (Türkçe) |
-| **Drive Letter Changer v1.4** | Disk bölümlerine sürücü harfi atama (Türkçe) |
+| **Drive Letter Changer v1.4** | Gizli disk bölümlerine sürücü harfi atama (Türkçe) |
 | **Ana Bilgisayardan Sürücü Yükle** | WinPE'ye sürücü yükleme bat dosyası (Türkçe) |
 
 ## Sürücü Tanıma Özelliği
