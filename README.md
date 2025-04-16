@@ -10,7 +10,7 @@
 
 İşyerinde kullanmak üzere kendi ihtiyaçlarıma göre hazırladığım WinPE'yi sizlerle paylaşıyorum.
 
-Rescue WinPE tam teşekküllü bir WinPE'dir, standart bir bilgisayarda yapabileceğiniz birçok işi bu winpe üzerinden çok rahat yapabileceksiniz. 
+Rescue WinPE tam teşekküllü bir WinPE'dir, standart bir bilgisayarda yapabileceğiniz birçok işi bu winpe üzerinden çok rahat yapabilirsiniz. 
 
 ### Belirgin özellikleri:
 
