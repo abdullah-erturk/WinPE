@@ -148,7 +148,7 @@ Yeni nesil bilgisayarlarda diskler görünmüyorsa, masaüstündeki **"Ana Bilgi
 
 ## Sistem Gereksinimleri
 
-- Minimum: **2.5 - 3 GB RAM**
+- Minimum: **1 - 2 GB RAM**
 - Düşük RAM’li sistemlerde ön yükleme yapılabilir, fakat bazı yazılımlar çalışmayabilir.
 
 ---
