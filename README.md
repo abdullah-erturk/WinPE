@@ -74,7 +74,7 @@ Rescue WinPE içerisinde yer alan başlıca yazılımlar:
 
 ## Sürücü Tanıma Özelliği
 
-Yeni nesil bilgisayarlarda NVMe diskler görünmüyorsa, masaüstündeki **"Ana Bilgisayardan Sürücü Yükle"** dosyası çalıştırılarak WinPE’ye sürücüler otomatik yüklenir. Bu işlem, tanınmayan diğer donanım sürücüleri için de geçerlidir.
+Yeni nesil bilgisayarlarda NVMe diskler görünmüyorsa, masaüstündeki **"Ana Bilgisayardan Sürücü Yükle"** dosyası çalıştırılarak WinPE’ye sürücüler otomatik yüklenir. Bu işlem, tanınmayan diğer donanım sürücüleri için de geçerlidir. Bu işlem için işletim sisteminin yüklü olması gerekir.
 
 ## Sistem Gereksinimleri
 
@@ -144,7 +144,8 @@ Backup WinPE içerisinde yer alan başlıca yazılımlar:
 
 ## Sürücü Tanıma Özelliği
 
-Yeni nesil bilgisayarlarda diskler görünmüyorsa, masaüstündeki **"Ana Bilgisayardan Sürücü Yükle"** dosyası çalıştırılarak WinPE’ye uygun sürücüler otomatik olarak yüklenir. Bu işlem, tanınmayan diğer donanım sürücüleri için de geçerlidir.
+Yeni nesil bilgisayarlarda diskler görünmüyorsa, masaüstündeki **"Ana Bilgisayardan Sürücü Yükle"** dosyası çalıştırılarak WinPE’ye uygun sürücüler otomatik olarak yüklenir. Bu işlem, tanınmayan diğer donanım sürücüleri için de geçerlidir. Bu işlem için işletim sisteminin yüklü olması gerekir.
+
 
 ## Sistem Gereksinimleri
 
