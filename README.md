@@ -36,6 +36,7 @@ Rescue WinPE, Windows 10 Enterprise 64-bit (2004 - 19041.264) sürümü üzerind
 - Admin hesabı ile başlatılır.  
 - **BitLocker** ve **ses desteği** mevcuttur.  
 - Güncel **NVMe SSD sürücüleri** sisteme entegredir.
+- İşletim sistemi yüklü yeni nesil bilgisayarlarda, eğer diskler görünmezse, masaüstündeki **"Ana Bilgisayardan Sürücü Yükle"** dosyası çalıştırılarak otomatik olarak NVMe SSD sürücüleri yüklenir ve diskler görünür hale gelir.
 
 ## Dahili Yazılımlar
 
